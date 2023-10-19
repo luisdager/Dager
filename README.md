@@ -1,2 +1,1 @@
-# Dager
-este es un repositorio de pruebas del modulo2 del dager
+ESTE ES UN PROYECTO DE PREUEBA ES DE COMO CREASR UN REPOSITORIO Y CLONARLO A MI PC
